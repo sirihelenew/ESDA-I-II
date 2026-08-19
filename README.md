@@ -11,11 +11,11 @@ Du må ha følgende Python-pakker installert:
 - `numpy`
 - `matplotlib`
 
-Installer dem ved å skrive:
+Installer dem ved å skrive
 ```bash
 pip install numpy matplotlib
 ```
-
+i terminalen din.
 
 ### Matplotlib-dokumentasjon
 [Matplotlib Pyplot Summary](https://matplotlib.org/stable/api/pyplot_summary.html)
